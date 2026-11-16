@@ -14,7 +14,7 @@ Este projeto consiste em um site de portfólio pessoal e acadêmico desenvolvido
 * **Git & GitHub / GitHub Pages**: Controle de versão e publicação online do site.
 
 ## Link do Site Publicado
-[Acesse o portfólio online](https://rockyll125.github.io/megosto/) *(substitua com o link correto do seu GitHub Pages)*
+https://github.com/rockyll125/PedroTomazAg15_DS_I
 
 ## Explicação do Funcionamento do Projeto
 O portfólio é estruturado em uma única página (Single Page Application) com navegação suave (smooth scroll) através de um menu superior fixo que se adapta ao rolar a página. A estrutura divide-se em:
